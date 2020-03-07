@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">CindyAI</string>
     <string name="activation">Activate</string>
+    <string name="installtts">Please Install A TTS Engine!</string>
+    <string name="urltoinstalltts">https://bit.ly/2spFOjd</string>
+    <string name="initmsg">Hello There, We Can I help?</string>
 </resources>
